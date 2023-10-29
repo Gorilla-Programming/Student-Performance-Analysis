@@ -1,0 +1,396 @@
+RegID,School,Gender,Age,Address,Family Size,Pstatus,Mother Education,Fathers Education,Mother's Job,Father's Job,Reason,Guardian,Travel time,Study Time,Failures,School Support,Family Support,Paid,Activities,Nursery,Higher,Internet,Romantic,FamRel,FreeTime,GoOut,Health,Absences,Language,Science,Maths,Percentage
+110091,Gabriel Pereira,Female,18,Urban,> 3,A,Bachelor's Degree,Bachelor's Degree,at_home,teacher,course,mother,2,3 to 4,0,yes,no,no,no,yes,yes,no,no,4,3,4,3,6,25,30,19.2,24.73333333
+110092,Gabriel Pereira,Female,17,Urban,> 3,T,Other,Other,at_home,other,course,father,1,3 to 4,0,no,yes,no,no,no,yes,yes,no,5,3,3,3,4,25,25,19.2,23.06666667
+110093,Gabriel Pereira,Female,15,Urban,< 3,T,Other,Other,at_home,other,other,mother,1,3 to 4,3,yes,no,yes,no,yes,yes,yes,no,4,3,2,3,10,35,40,32,35.66666667
+110094,Gabriel Pereira,Female,15,Urban,> 3,T,Bachelor's Degree,10/10+2,health,services,home,mother,1,more then 4,0,no,yes,yes,yes,yes,yes,yes,yes,3,2,2,5,2,75,70,48,64.33333333
+110095,Gabriel Pereira,Female,16,Urban,> 3,T,10/10+2,10/10+2,other,other,home,father,1,3 to 4,0,no,yes,yes,no,yes,yes,no,no,4,3,2,5,4,30,50,32,37.33333333
+110096,Gabriel Pereira,Male,16,Urban,< 3,T,Bachelor's Degree,10/10+2,services,other,reputation,mother,1,3 to 4,0,no,yes,yes,yes,yes,yes,yes,no,5,4,2,5,10,75,75,48,66
+110097,Gabriel Pereira,Male,16,Urban,< 3,T,10/10+2,10/10+2,other,other,home,mother,1,3 to 4,0,no,no,no,no,yes,yes,yes,no,4,4,4,3,0,60,60,35.2,51.73333333
+110098,Gabriel Pereira,Female,17,Urban,> 3,A,Bachelor's Degree,Bachelor's Degree,other,teacher,home,mother,2,3 to 4,0,yes,yes,no,no,yes,yes,no,no,,,4,1,6,30,25,19.2,24.73333333
+110099,Gabriel Pereira,Male,15,Urban,< 3,A,10/10+2,10/10+2,services,other,home,mother,1,3 to 4,0,no,yes,yes,no,yes,yes,yes,no,4,2,2,1,0,80,90,60.8,76.93333333
+110100,Gabriel Pereira,Male,15,Urban,> 3,T,10/10+2,Bachelor's Degree,other,other,home,mother,1,3 to 4,,no,yes,yes,yes,yes,yes,yes,no,5,5,1,5,0,70,75,48,64.33333333
+110101,Gabriel Pereira,Female,15,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,teacher,health,reputation,mother,1,3 to 4,0,no,yes,yes,no,yes,yes,yes,no,3,3,3,2,0,50,40,28.8,39.6
+110102,Gabriel Pereira,Female,15,Urban,> 3,T,10/10+2,Other,services,other,reputation,father,3,more then 4,0,no,yes,no,yes,yes,yes,yes,no,5,2,2,4,4,50,60,38.4,49.46666667
+110103,Gabriel Pereira,Male,15,Urban,< 3,T,Bachelor's Degree,Bachelor's Degree,health,services,course,father,1,1 to 3,0,no,yes,yes,yes,yes,yes,yes,no,4,3,3,5,2,70,70,44.8,61.6
+110104,Gabriel Pereira,Male,15,Urban,> 3,T,Bachelor's Degree,10/10+2,teacher,other,course,mother,2,3 to 4,0,no,yes,yes,no,yes,yes,yes,no,5,4,3,3,2,50,50,35.2,45.06666667
+110105,Gabriel Pereira,Male,15,Urban,> 3,A,10/10+2,10/10+2,other,other,home,other,1,more then 4,0,no,yes,no,no,yes,yes,yes,yes,4,5,2,3,0,70,80,51.2,67.06666667
+110106,Gabriel Pereira,Female,16,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,health,other,home,mother,1,1 to 3,0,no,yes,no,no,yes,yes,yes,no,4,4,,2,4,70,70,44.8,61.6
+110107,Gabriel Pereira,Female,16,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,services,services,reputation,mother,1,more then 4,0,no,yes,yes,yes,yes,yes,yes,no,3,2,3,2,6,65,70,44.8,59.93333333
+110108,Gabriel Pereira,Female,16,Urban,> 3,T,10/10+2,10/10+2,other,other,reputation,mother,3,3 to 4,0,yes,yes,no,yes,yes,yes,no,no,5,3,2,4,4,40,50,32,40.66666667
+110109,Gabriel Pereira,Male,17,Urban,> 3,T,10/10+2,10/10+2,services,services,course,mother,1,1 to 3,3,no,yes,no,yes,yes,yes,yes,no,5,5,5,5,16,30,25,16,23.66666667
+110110,Gabriel Pereira,Male,16,Urban,< 3,T,Bachelor's Degree,10/10+2,health,other,home,father,1,1 to 3,0,no,no,yes,yes,yes,yes,yes,no,3,1,3,5,4,40,50,32,40.66666667
+110111,Gabriel Pereira,Male,15,Urban,> 3,T,Bachelor's Degree,10/10+2,teacher,other,reputation,mother,1,3 to 4,0,no,no,no,no,yes,yes,yes,no,4,4,1,1,0,65,70,48,61
+110112,Gabriel Pereira,Male,15,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,health,health,other,father,1,1 to 3,0,no,yes,yes,no,yes,yes,yes,no,5,4,2,5,0,60,75,48,61
+110113,Gabriel Pereira,Male,16,Urban,< 3,T,Bachelor's Degree,10/10+2,teacher,other,course,mother,1,3 to 4,0,no,no,no,yes,yes,yes,yes,no,,5,1,5,2,75,75,51.2,67.06666667
+110114,Gabriel Pereira,Male,16,Urban,< 3,T,10/10+2,10/10+2,other,other,reputation,mother,2,3 to 4,0,no,yes,no,yes,yes,yes,yes,no,5,4,4,5,0,65,65,38.4,56.13333333
+110115,Gabriel Pereira,Female,15,Rural,> 3,T,10/10+2,Bachelor's Degree,services,health,course,mother,1,more then 4,0,yes,yes,yes,yes,yes,yes,yes,no,4,3,2,5,2,50,45,25.6,40.2
+110116,Gabriel Pereira,Female,16,Urban,> 3,T,10/10+2,10/10+2,services,services,home,mother,1,1 to 3,2,no,yes,yes,no,no,yes,yes,no,1,2,2,5,14,30,45,25.6,33.53333333
+110117,Gabriel Pereira,Male,15,Urban,> 3,T,10/10+2,10/10+2,other,other,home,mother,1,1 to 3,0,no,yes,yes,no,yes,yes,yes,no,4,2,2,5,2,60,60,35.2,51.73333333
+110118,Gabriel Pereira,Male,15,Urban,> 3,T,Bachelor's Degree,10/10+2,health,services,other,mother,1,1 to 3,0,no,no,yes,no,yes,yes,yes,no,2,2,4,1,4,75,80,48,67.66666667
+110119,Gabriel Pereira,Male,16,Urban,< 3,A,10/10+2,Bachelor's Degree,services,other,home,mother,1,3 to 4,0,yes,yes,no,yes,yes,yes,yes,no,5,,3,5,4,55,55,35.2,48.4
+110120,Gabriel Pereira,Male,16,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,teacher,teacher,home,mother,1,3 to 4,0,no,yes,yes,yes,yes,yes,yes,yes,4,4,5,5,16,50,60,35.2,48.4
+110121,Gabriel Pereira,Male,15,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,health,services,home,mother,1,3 to 4,0,no,yes,yes,no,no,yes,yes,no,5,4,2,5,0,45,55,38.4,46.13333333
+110122,Gabriel Pereira,Male,15,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,services,services,reputation,mother,2,3 to 4,0,no,yes,no,yes,yes,yes,yes,no,4,3,1,5,0,85,80,54.4,73.13333333
+110123,Gabriel Pereira,Male,15,Rural,> 3,T,Bachelor's Degree,10/10+2,teacher,at_home,course,mother,1,3 to 4,0,no,yes,no,yes,yes,yes,yes,yes,4,5,2,5,0,85,80,51.2,72.06666667
+110124,Gabriel Pereira,Male,15,Urban,< 3,T,10/10+2,10/10+2,other,other,course,mother,1,3 to 4,0,no,no,no,yes,no,yes,yes,no,5,3,2,2,0,40,50,38.4,42.8
+110125,Gabriel Pereira,Male,16,Urban,> 3,T,10/10+2,10/10+2,other,other,home,mother,1,1 to 3,0,no,yes,yes,no,no,yes,yes,no,5,4,3,5,0,60,70,48,59.33333333
+110126,Gabriel Pereira,Female,15,Urban,> 3,T,10/10+2,10/10+2,other,other,other,father,2,1 to 3,0,no,yes,no,yes,yes,yes,no,no,3,5,1,5,0,40,35,19.2,31.4
+110127,Gabriel Pereira,Male,15,Urban,< 3,T,Bachelor's Degree,10/10+2,teacher,services,home,mother,1,more then 4,0,no,yes,no,yes,yes,yes,yes,no,5,4,3,4,2,75,80,57.6,70.86666667
+110128,Gabriel Pereira,Male,16,Rural,> 3,A,Bachelor's Degree,Bachelor's Degree,other,teacher,reputation,mother,2,more then 4,0,no,yes,no,yes,yes,yes,yes,yes,2,4,3,5,7,75,80,48,67.66666667
+110129,Gabriel Pereira,Female,15,Rural,> 3,T,10/10+2,Bachelor's Degree,services,health,course,mother,1,more then 4,0,yes,yes,yes,yes,yes,yes,yes,no,4,3,2,,2,60,60,35.2,51.73333333
+110130,Gabriel Pereira,Female,15,Rural,> 3,T,10/10+2,10/10+2,at_home,other,reputation,mother,1,1 to 3,0,yes,yes,yes,yes,yes,yes,no,no,4,3,1,2,8,70,65,41.6,58.86666667
+110131,Gabriel Pereira,Female,16,Urban,< 3,T,10/10+2,10/10+2,other,other,home,mother,2,3 to 4,1,no,yes,no,yes,no,yes,yes,yes,3,3,3,3,25,35,50,35.2,40.06666667
+110132,Gabriel Pereira,Male,15,Urban,< 3,T,Bachelor's Degree,Bachelor's Degree,teacher,other,home,other,1,1 to 3,0,no,yes,no,no,no,yes,yes,yes,,4,3,5,8,60,60,38.4,52.8
+110133,Gabriel Pereira,Male,15,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,services,teacher,course,father,1,3 to 4,0,no,yes,no,yes,yes,yes,yes,no,4,3,3,5,2,95,90,57.6,80.86666667
+110134,Gabriel Pereira,Male,15,Urban,> 3,T,10/10+2,10/10+2,services,services,course,father,1,1 to 3,0,yes,yes,no,no,yes,yes,yes,no,5,4,1,1,0,40,40,35.2,38.4
+110135,Gabriel Pereira,Female,16,Urban,< 3,T,10/10+2,10/10+2,other,at_home,course,father,2,3 to 4,1,yes,no,no,yes,yes,yes,yes,no,4,3,3,5,14,50,50,28.8,42.93333333
+110136,Gabriel Pereira,Female,15,Urban,< 3,A,Bachelor's Degree,10/10+2,other,other,course,mother,1,3 to 4,0,yes,yes,yes,yes,yes,yes,yes,yes,5,,2,5,8,40,40,19.2,33.06666667
+110137,Gabriel Pereira,Female,16,Urban,< 3,A,10/10+2,10/10+2,other,services,home,mother,1,3 to 4,0,no,yes,no,no,yes,yes,yes,no,2,3,5,3,12,55,60,35.2,50.06666667
+110138,Gabriel Pereira,Male,16,Urban,> 3,T,Bachelor's Degree,10/10+2,health,services,reputation,mother,1,more then 4,0,no,no,no,yes,yes,yes,yes,no,4,2,2,2,4,95,95,64,84.66666667
+110139,Gabriel Pereira,Male,15,Urban,> 3,T,Bachelor's Degree,10/10+2,teacher,other,home,mother,1,3 to 4,0,no,yes,yes,no,yes,yes,no,no,4,3,3,5,2,75,75,44.8,64.93333333
+110140,Gabriel Pereira,Female,15,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,services,teacher,other,father,1,3 to 4,1,yes,yes,no,yes,no,yes,yes,no,4,4,4,3,2,35,35,22.4,30.8
+110141,Gabriel Pereira,Female,16,Urban,< 3,T,10/10+2,10/10+2,services,services,course,mother,3,3 to 4,0,no,yes,yes,no,yes,yes,yes,no,4,3,3,4,2,60,65,41.6,55.53333333
+110142,Gabriel Pereira,Female,15,Urban,< 3,T,Bachelor's Degree,10/10+2,health,other,other,mother,1,3 to 4,,no,yes,yes,no,yes,yes,yes,no,4,3,3,5,2,55,65,41.6,53.86666667
+110143,Gabriel Pereira,Male,15,Urban,< 3,A,Bachelor's Degree,10/10+2,health,health,other,father,2,1 to 3,1,no,no,no,no,yes,yes,no,no,5,5,5,5,6,55,55,32,47.33333333
+110144,Gabriel Pereira,Female,15,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,services,services,course,mother,1,1 to 3,0,yes,yes,yes,no,yes,yes,yes,no,3,3,4,5,0,40,50,35.2,41.73333333
+110145,Gabriel Pereira,Female,15,Urban,< 3,A,10/10+2,10/10+2,other,other,other,mother,1,1 to 3,0,no,no,yes,no,yes,yes,yes,no,5,3,4,1,6,50,65,41.6,52.2
+110146,Gabriel Pereira,Female,16,Urban,> 3,A,10/10+2,Other,other,other,other,mother,1,3 to 4,0,no,no,yes,yes,yes,yes,yes,yes,,3,4,2,8,40,45,32,39
+110147,Gabriel Pereira,Female,15,Urban,> 3,A,Bachelor's Degree,10/10+2,services,services,reputation,mother,1,3 to 4,0,no,yes,yes,yes,yes,yes,yes,no,4,3,2,1,0,70,75,48,64.33333333
+110148,Gabriel Pereira,Male,15,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,teacher,health,reputation,mother,1,3 to 4,0,no,yes,no,yes,yes,yes,no,no,3,2,2,5,4,70,75,48,64.33333333
+110149,Gabriel Pereira,Male,15,Urban,< 3,T,Other,10/10+2,other,at_home,home,father,1,3 to 4,0,yes,yes,no,yes,yes,yes,yes,no,4,3,2,5,2,45,50,28.8,41.26666667
+110150,Gabriel Pereira,Female,16,Urban,> 3,T,Bachelor's Degree,10/10+2,services,other,course,mother,1,3 to 4,0,no,yes,no,no,yes,yes,yes,no,4,2,3,5,2,75,80,51.2,68.73333333
+110151,Gabriel Pereira,Female,16,Rural,> 3,T,Bachelor's Degree,Bachelor's Degree,health,teacher,other,mother,1,3 to 4,0,no,yes,no,yes,yes,yes,no,no,2,,4,4,6,50,55,35.2,46.73333333
+110152,Gabriel Pereira,Female,16,Urban,> 3,T,Other,Other,services,services,course,father,4,1 to 3,0,yes,yes,no,yes,no,yes,yes,yes,5,5,5,,6,50,40,35.2,41.73333333
+110153,Gabriel Pereira,Female,16,Urban,< 3,T,Other,10/10+2,other,services,reputation,father,1,3 to 4,0,yes,no,no,yes,yes,yes,yes,no,4,4,3,1,4,40,50,28.8,39.6
+110154,Gabriel Pereira,Female,16,Urban,> 3,T,Bachelor's Degree,10/10+2,teacher,health,home,mother,1,more then 4,0,yes,yes,yes,yes,yes,yes,yes,no,3,4,4,4,2,50,45,28.8,41.26666667
+110155,Gabriel Pereira,Female,15,Urban,< 3,T,Bachelor's Degree,10/10+2,services,services,reputation,father,1,3 to 4,0,yes,no,no,yes,yes,yes,yes,yes,4,4,4,2,0,50,50,32,44
+110156,Gabriel Pereira,Female,16,Urban,< 3,T,Bachelor's Degree,10/10+2,teacher,services,course,mother,3,3 to 4,0,no,yes,no,yes,yes,yes,yes,no,5,4,3,1,2,80,75,48,67.66666667
+110157,Gabriel Pereira,Male,15,Urban,> 3,A,Bachelor's Degree,Bachelor's Degree,other,services,reputation,mother,1,more then 4,0,no,yes,no,yes,no,yes,yes,yes,1,3,3,3,4,65,65,38.4,56.13333333
+110158,Gabriel Pereira,Female,16,Urban,> 3,T,10/10+2,Other,services,other,course,mother,1,more then 4,0,yes,yes,yes,no,yes,yes,yes,no,4,3,3,5,4,35,35,19.2,29.73333333
+110159,Gabriel Pereira,Female,15,Rural,< 3,T,10/10+2,10/10+2,health,services,reputation,mother,2,3 to 4,0,yes,yes,yes,no,yes,yes,yes,no,4,1,3,4,2,40,45,25.6,36.86666667
+110160,Gabriel Pereira,Female,15,Rural,< 3,T,10/10+2,Other,other,other,reputation,father,2,more then 4,0,no,yes,no,no,no,yes,yes,no,4,4,2,3,12,80,80,51.2,70.4
+110161,Gabriel Pereira,Male,16,Urban,> 3,T,10/10+2,Other,other,other,reputation,father,2,more then 4,0,no,yes,yes,no,yes,yes,yes,no,,3,2,5,0,65,75,48,62.66666667
+110162,Gabriel Pereira,Male,15,Urban,> 3,T,Bachelor's Degree,10/10+2,other,other,course,mother,1,more then 4,0,no,no,no,no,yes,yes,yes,no,3,3,3,3,0,50,50,32,44
+110163,Gabriel Pereira,Female,15,Rural,> 3,T,Other,Other,other,other,reputation,mother,1,3 to 4,2,yes,yes,no,no,no,yes,yes,yes,3,3,4,5,2,40,30,16,28.66666667
+110164,Gabriel Pereira,Male,16,Urban,> 3,T,10/10+2,Other,other,other,reputation,mother,1,1 to 3,0,no,no,no,yes,yes,yes,no,no,5,3,2,5,2,60,60,44.8,54.93333333
+110165,Gabriel Pereira,Female,16,Urban,> 3,T,10/10+2,10/10+2,other,services,home,mother,1,3 to 4,0,yes,yes,yes,yes,yes,yes,yes,no,4,3,3,5,54,55,60,35.2,50.06666667
+110166,Gabriel Pereira,Male,15,Urban,> 3,T,Bachelor's Degree,10/10+2,teacher,other,home,mother,1,3 to 4,0,no,yes,yes,yes,yes,yes,yes,no,4,3,3,5,6,45,45,32,40.66666667
+110167,Gabriel Pereira,Male,15,Urban,> 3,T,Bachelor's Degree,Master's Degree,teacher,other,course,mother,2,more then 4,0,no,no,no,yes,yes,yes,yes,no,3,4,3,1,8,55,55,32,47.33333333
+110168,Gabriel Pereira,Female,16,Urban,> 3,T,10/10+2,10/10+2,other,other,reputation,mother,1,more then 4,0,no,no,yes,no,yes,yes,yes,yes,5,2,3,3,0,55,55,35.2,48.4
+110169,Gabriel Pereira,Male,17,Urban,> 3,T,10/10+2,Other,other,other,home,mother,2,1 to 3,3,yes,yes,no,yes,yes,no,yes,no,4,,1,3,2,40,40,32,37.33333333
+110170,Gabriel Pereira,Female,16,Urban,> 3,T,10/10+2,Bachelor's Degree,at_home,other,course,mother,1,3 to 4,0,no,yes,no,no,yes,yes,yes,no,2,4,3,3,12,25,25,16,22
+110171,Gabriel Pereira,Male,15,Urban,> 3,T,10/10+2,10/10+2,other,services,course,father,1,1 to 3,0,yes,yes,yes,yes,no,yes,yes,yes,3,2,2,3,2,50,60,38.4,49.46666667
+110172,Gabriel Pereira,Male,15,Urban,> 3,T,10/10+2,10/10+2,other,other,home,mother,1,more then 4,0,yes,no,yes,no,no,yes,yes,no,5,3,,5,4,55,50,35.2,46.73333333
+110173,Gabriel Pereira,Female,15,Urban,< 3,T,10/10+2,10/10+2,services,other,reputation,mother,1,3 to 4,,no,yes,yes,no,yes,yes,yes,no,4,4,4,5,10,35,30,19.2,28.06666667
+110174,Gabriel Pereira,Male,15,Urban,< 3,T,10/10+2,10/10+2,services,services,home,mother,2,3 to 4,0,no,no,yes,yes,yes,yes,yes,no,,3,3,4,4,75,75,48,66
+110175,Gabriel Pereira,Female,15,Urban,> 3,T,Other,Other,other,other,home,father,1,3 to 4,0,no,yes,no,yes,no,yes,yes,no,4,3,2,4,2,45,50,32,42.33333333
+110176,Gabriel Pereira,Female,15,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,services,services,reputation,father,2,3 to 4,2,no,no,yes,no,yes,yes,yes,yes,4,4,4,5,6,35,45,25.6,35.2
+110177,Gabriel Pereira,Female,16,Urban,< 3,T,10/10+2,10/10+2,at_home,other,course,mother,1,3 to 4,0,no,yes,no,no,yes,yes,no,no,4,3,4,2,4,40,35,19.2,31.4
+110178,Gabriel Pereira,Female,15,Urban,> 3,T,Bachelor's Degree,10/10+2,other,other,reputation,mother,1,more then 4,0,no,yes,no,yes,yes,yes,yes,no,5,3,3,1,4,65,70,44.8,59.93333333
+110179,Gabriel Pereira,Male,16,Urban,> 3,T,10/10+2,10/10+2,services,other,reputation,father,2,3 to 4,1,no,no,yes,yes,no,yes,yes,no,4,4,2,3,12,55,50,32,45.66666667
+110180,Gabriel Pereira,Male,16,Urban,< 3,A,Bachelor's Degree,Bachelor's Degree,teacher,health,reputation,mother,1,3 to 4,0,no,yes,no,no,yes,yes,no,no,4,1,3,5,18,40,30,22.4,30.8
+110181,Gabriel Pereira,Female,16,Urban,> 3,T,10/10+2,10/10+2,other,other,home,mother,1,more then 4,0,no,yes,yes,no,yes,yes,yes,yes,4,3,3,4,0,35,35,25.6,31.86666667
+110182,Gabriel Pereira,Female,15,Urban,> 3,T,Bachelor's Degree,10/10+2,services,other,reputation,mother,1,1 to 3,0,no,no,yes,yes,yes,yes,yes,no,4,5,5,1,4,80,85,57.6,74.2
+110183,Gabriel Pereira,Female,16,Urban,< 3,T,10/10+2,Other,other,other,home,father,1,3 to 4,0,yes,yes,no,no,yes,yes,no,no,3,3,3,2,4,35,30,19.2,28.06666667
+110184,Gabriel Pereira,Female,16,Urban,> 3,T,Bachelor's Degree,10/10+2,teacher,services,home,mother,2,3 to 4,0,no,yes,yes,yes,yes,yes,yes,no,5,3,3,1,0,55,50,32,45.66666667
+110185,Gabriel Pereira,Male,15,Urban,< 3,T,10/10+2,10/10+2,services,health,reputation,mother,1,more then 4,0,no,yes,no,yes,yes,yes,yes,no,4,3,4,4,6,55,65,44.8,54.93333333
+110186,Gabriel Pereira,Female,15,Rural,> 3,T,Other,Other,at_home,other,home,mother,2,more then 4,1,yes,yes,yes,yes,yes,yes,yes,no,3,1,2,1,2,35,50,32,39
+110187,Gabriel Pereira,Male,16,Rural,> 3,T,Bachelor's Degree,10/10+2,services,other,reputation,mother,2,1 to 3,0,yes,yes,no,yes,no,yes,yes,no,3,,3,4,2,55,75,48,59.33333333
+110188,Gabriel Pereira,Female,16,Urban,> 3,T,10/10+2,Other,other,other,course,mother,1,3 to 4,0,no,yes,yes,no,yes,yes,no,yes,4,3,5,5,2,40,45,32,39
+110189,Gabriel Pereira,Female,16,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,other,other,reputation,mother,1,1 to 3,0,no,no,no,yes,no,yes,yes,no,5,3,4,1,6,55,70,44.8,56.6
+110190,Gabriel Pereira,Female,16,Urban,> 3,T,Bachelor's Degree,10/10+2,other,at_home,course,mother,1,more then 4,0,yes,yes,yes,no,yes,yes,yes,no,5,3,5,3,0,35,45,25.6,35.2
+110191,Gabriel Pereira,Male,16,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,services,services,other,mother,1,1 to 3,0,yes,yes,yes,yes,yes,yes,yes,no,4,5,5,4,14,35,35,16,28.66666667
+110192,Gabriel Pereira,Male,16,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,services,teacher,other,father,1,more then 4,0,no,yes,no,yes,yes,yes,yes,yes,4,4,3,4,0,80,85,54.4,73.13333333
+110193,Gabriel Pereira,Male,15,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,services,other,course,mother,1,1 to 3,0,no,yes,no,yes,no,yes,yes,no,5,3,3,,4,50,65,44.8,53.26666667
+110194,Gabriel Pereira,Female,15,Urban,> 3,T,10/10+2,10/10+2,services,other,home,mother,2,3 to 4,0,yes,yes,yes,no,yes,yes,yes,no,4,3,5,2,26,35,30,19.2,28.06666667
+110195,Gabriel Pereira,Male,15,Urban,> 3,A,10/10+2,Bachelor's Degree,services,other,course,mother,1,3 to 4,0,no,yes,yes,yes,yes,yes,yes,no,,4,4,1,0,80,90,57.6,75.86666667
+110196,Gabriel Pereira,Female,15,Urban,> 3,A,10/10+2,10/10+2,other,health,reputation,father,1,more then 4,0,yes,no,no,no,yes,yes,no,no,4,3,3,4,10,50,55,35.2,46.73333333
+110197,Gabriel Pereira,Female,15,Urban,> 3,T,10/10+2,10/10+2,other,other,course,mother,1,more then 4,0,yes,yes,yes,no,yes,yes,yes,no,5,1,2,3,8,35,40,25.6,33.53333333
+110198,Gabriel Pereira,Male,16,Urban,> 3,T,10/10+2,10/10+2,services,other,home,father,1,more then 4,0,no,yes,no,yes,yes,yes,yes,no,5,3,3,5,2,80,90,57.6,75.86666667
+110199,Gabriel Pereira,Male,15,Rural,> 3,T,Bachelor's Degree,Bachelor's Degree,other,other,home,father,4,more then 4,0,no,yes,yes,yes,yes,yes,yes,yes,1,3,5,1,6,50,65,41.6,52.2
+110200,Gabriel Pereira,Female,16,Urban,< 3,T,Bachelor's Degree,Bachelor's Degree,health,health,other,mother,1,more then 4,0,no,yes,yes,yes,yes,yes,yes,yes,5,4,5,4,4,70,75,51.2,65.4
+110201,Gabriel Pereira,Male,15,Urban,< 3,A,Bachelor's Degree,Bachelor's Degree,teacher,teacher,course,mother,1,1 to 3,0,no,no,no,yes,yes,yes,yes,no,5,5,3,4,6,90,95,60.8,81.93333333
+110202,Gabriel Pereira,Female,16,Rural,> 3,T,10/10+2,10/10+2,services,other,reputation,father,1,more then 4,1,yes,yes,no,yes,yes,yes,yes,no,4,1,2,2,0,35,50,32,39
+110203,Gabriel Pereira,Female,16,Urban,> 3,T,10/10+2,10/10+2,at_home,other,home,mother,1,3 to 4,1,yes,no,no,yes,yes,yes,yes,no,3,1,2,5,6,50,65,41.6,52.2
+110204,Gabriel Pereira,Male,15,Urban,< 3,T,Bachelor's Degree,10/10+2,teacher,other,course,mother,1,1 to 3,,no,no,no,no,yes,yes,yes,no,3,5,2,3,10,90,95,60.8,81.93333333
+110205,Gabriel Pereira,Male,15,Rural,> 3,T,10/10+2,Other,health,services,reputation,mother,1,3 to 4,0,no,no,no,yes,yes,yes,yes,yes,5,,2,5,8,45,45,28.8,39.6
+110206,Gabriel Pereira,Male,16,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,teacher,teacher,course,father,1,3 to 4,0,no,yes,no,yes,yes,yes,yes,no,5,4,4,5,2,75,75,51.2,67.06666667
+110207,Gabriel Pereira,Male,15,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,other,teacher,reputation,father,2,3 to 4,0,no,yes,no,yes,yes,yes,no,no,4,4,3,2,2,55,65,44.8,54.93333333
+110208,Gabriel Pereira,Male,16,Urban,> 3,T,10/10+2,10/10+2,other,services,home,father,2,1 to 3,0,no,no,no,yes,yes,yes,yes,no,5,4,2,5,0,65,70,41.6,58.86666667
+110209,Gabriel Pereira,Male,17,Rural,> 3,T,Other,10/10+2,other,other,course,father,3,3 to 4,1,no,yes,no,yes,yes,yes,yes,no,5,2,4,5,20,45,35,25.6,35.2
+110210,Gabriel Pereira,Male,15,Urban,> 3,T,10/10+2,Bachelor's Degree,other,other,reputation,father,1,1 to 3,0,no,no,no,no,yes,yes,yes,no,,4,3,4,6,70,65,41.6,58.86666667
+110211,Gabriel Pereira,Female,15,Urban,> 3,T,Other,10/10+2,at_home,services,course,mother,1,3 to 4,0,no,no,no,no,no,yes,yes,no,3,2,3,1,2,80,75,48,67.66666667
+110212,Gabriel Pereira,Male,15,Urban,> 3,T,10/10+2,10/10+2,services,services,home,father,1,more then 4,0,no,yes,yes,yes,yes,yes,yes,no,5,5,,5,6,80,70,48,66
+110213,Gabriel Pereira,Female,16,Urban,< 3,T,10/10+2,Bachelor's Degree,other,health,course,father,2,3 to 4,0,no,yes,yes,yes,yes,yes,yes,yes,4,2,2,,,65,65,41.6,57.2
+110214,Gabriel Pereira,Male,16,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,health,other,course,mother,1,1 to 3,0,no,yes,no,yes,yes,yes,yes,no,3,4,4,5,18,70,55,41.6,55.53333333
+110215,Gabriel Pereira,Female,16,Urban,> 3,T,10/10+2,10/10+2,other,other,home,mother,1,3 to 4,0,no,no,yes,no,yes,yes,yes,yes,5,4,4,5,0,40,35,25.6,33.53333333
+110216,Gabriel Pereira,Male,15,Urban,> 3,T,10/10+2,Bachelor's Degree,services,services,home,father,1,1 to 3,0,yes,no,no,no,yes,yes,yes,no,5,5,5,5,0,65,65,38.4,56.13333333
+110217,Gabriel Pereira,Female,15,Urban,< 3,A,10/10+2,Bachelor's Degree,other,other,home,mother,1,3 to 4,0,yes,no,no,yes,yes,yes,yes,yes,5,3,2,1,0,35,50,35.2,40.06666667
+110218,Gabriel Pereira,Female,19,Urban,> 3,T,Master's Degree,Other,at_home,other,course,other,1,3 to 4,3,no,yes,no,no,no,no,no,no,3,4,2,5,2,35,40,28.8,34.6
+110219,Gabriel Pereira,Male,18,Rural,> 3,T,10/10+2,10/10+2,services,other,reputation,mother,1,1 to 3,2,no,yes,no,yes,yes,yes,yes,no,3,3,3,4,0,35,20,0,18.33333333
+110220,Gabriel Pereira,Male,16,Rural,> 3,T,Bachelor's Degree,Bachelor's Degree,teacher,teacher,course,mother,1,1 to 3,0,no,no,yes,yes,yes,yes,yes,no,3,5,5,4,8,90,90,57.6,79.2
+110221,Gabriel Pereira,Female,15,Rural,> 3,T,10/10+2,Bachelor's Degree,services,teacher,course,father,2,more then 4,2,no,yes,no,no,yes,yes,yes,yes,4,2,2,5,0,60,0,0,20
+110222,Gabriel Pereira,Female,15,Urban,> 3,T,Other,Other,at_home,other,course,mother,3,1 to 3,0,no,yes,no,yes,no,yes,yes,yes,4,3,3,4,0,40,0,0,13.33333333
+110223,Gabriel Pereira,Female,17,Urban,< 3,T,10/10+2,10/10+2,other,other,course,father,1,1 to 3,0,no,yes,no,no,yes,yes,yes,yes,3,4,4,5,12,50,65,38.4,51.13333333
+110224,Gabriel Pereira,Female,16,Urban,> 3,A,10/10+2,Bachelor's Degree,services,other,course,father,1,1 to 3,0,no,no,no,no,yes,yes,yes,no,3,,1,5,16,60,55,35.2,50.06666667
+110225,Gabriel Pereira,Male,15,Rural,> 3,T,10/10+2,Bachelor's Degree,at_home,teacher,course,mother,4,3 to 4,0,no,yes,no,no,yes,yes,no,yes,5,3,3,5,0,45,0,0,15
+110226,Gabriel Pereira,Female,15,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,services,at_home,course,mother,1,more then 4,0,no,yes,no,yes,yes,yes,yes,yes,4,3,3,5,0,55,0,0,18.33333333
+110227,Gabriel Pereira,Male,17,Rural,> 3,T,10/10+2,Bachelor's Degree,at_home,other,course,mother,3,3 to 4,0,no,no,no,no,yes,yes,no,no,5,4,5,5,0,50,0,0,16.66666667
+110228,Gabriel Pereira,Female,16,Urban,> 3,A,10/10+2,10/10+2,other,other,course,other,2,1 to 3,2,no,yes,no,yes,no,yes,yes,yes,,3,2,5,0,20,0,0,6.666666667
+110229,Gabriel Pereira,Male,16,Urban,< 3,T,Other,Other,services,other,course,mother,1,3 to 4,1,no,no,no,no,yes,yes,no,yes,4,4,4,5,0,70,60,38.4,56.13333333
+110230,Gabriel Pereira,Female,15,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,teacher,teacher,course,mother,2,1 to 3,0,no,no,no,yes,yes,yes,yes,no,4,3,2,5,0,80,80,48,69.33333333
+110231,Gabriel Pereira,Male,15,Urban,> 3,T,Bachelor's Degree,10/10+2,teacher,services,course,father,2,more then 4,0,yes,yes,no,no,yes,yes,yes,no,2,2,,,,35,45,0,26.66666667
+110232,Gabriel Pereira,Male,16,Urban,< 3,T,10/10+2,10/10+2,services,services,reputation,father,2,1 to 3,2,no,yes,no,yes,yes,yes,yes,no,2,3,3,2,8,45,45,28.8,39.6
+110233,Gabriel Pereira,Female,15,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,teacher,services,course,mother,1,more then 4,0,no,yes,yes,yes,yes,yes,yes,no,4,2,2,5,2,45,55,35.2,45.06666667
+110234,Gabriel Pereira,Female,16,Urban,< 3,T,Other,Other,at_home,at_home,course,mother,1,1 to 3,0,no,no,no,no,yes,yes,yes,no,3,4,4,1,2,70,70,41.6,60.53333333
+110235,Gabriel Pereira,Male,17,Urban,> 3,T,10/10+2,Other,other,other,home,mother,1,1 to 3,3,no,yes,no,no,yes,yes,yes,no,5,4,5,5,0,25,0,0,8.333333333
+110236,Gabriel Pereira,Female,15,Urban,> 3,T,Other,Other,other,services,course,father,1,3 to 4,0,no,yes,yes,no,yes,yes,yes,no,4,4,2,5,0,40,55,35.2,43.4
+110237,Gabriel Pereira,Female,15,Urban,> 3,T,10/10+2,10/10+2,health,services,home,father,1,3 to 4,3,no,yes,no,no,yes,yes,yes,no,3,3,2,3,0,30,35,0,21.66666667
+110238,Gabriel Pereira,Female,15,Urban,> 3,T,Other,10/10+2,at_home,other,course,mother,1,3 to 4,0,no,yes,yes,no,no,yes,yes,no,4,3,2,5,2,50,55,35.2,46.73333333
+110239,Gabriel Pereira,Male,16,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,teacher,teacher,course,mother,1,1 to 3,0,no,yes,no,no,yes,no,yes,yes,3,3,2,5,0,35,30,0,21.66666667
+110240,Gabriel Pereira,Male,15,Urban,< 3,A,10/10+2,Other,services,other,course,mother,4,1 to 3,3,no,no,no,no,yes,yes,yes,no,4,5,5,5,0,40,45,32,39
+110241,Gabriel Pereira,Male,18,Urban,< 3,T,Other,Other,other,other,course,mother,1,1 to 3,3,no,no,no,no,yes,no,yes,yes,2,3,5,4,0,30,25,0,18.33333333
+110242,Gabriel Pereira,Male,16,Urban,< 3,T,10/10+2,Other,at_home,other,course,mother,1,1 to 3,1,no,no,no,yes,yes,yes,no,yes,4,4,4,5,,60,65,44.8,56.6
+110243,Gabriel Pereira,Female,15,Rural,> 3,T,10/10+2,10/10+2,services,services,reputation,other,2,more then 4,2,no,yes,yes,yes,yes,yes,yes,yes,,2,1,3,8,50,50,32,44
+110244,Gabriel Pereira,Male,19,Urban,> 3,T,10/10+2,10/10+2,services,at_home,home,mother,1,1 to 3,3,no,yes,no,no,yes,no,yes,yes,4,5,4,4,0,25,0,0,8.333333333
+110245,Gabriel Pereira,Female,17,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,other,teacher,course,mother,1,1 to 3,0,yes,yes,no,no,yes,yes,no,yes,4,2,,4,0,55,55,38.4,49.46666667
+110246,Gabriel Pereira,Male,15,Rural,> 3,T,10/10+2,10/10+2,at_home,services,course,mother,1,3 to 4,0,yes,no,yes,yes,yes,yes,no,no,4,4,4,1,2,55,40,25.6,40.2
+110247,Gabriel Pereira,Male,17,Rural,< 3,T,Other,10/10+2,other,other,reputation,mother,1,1 to 3,0,no,no,no,no,yes,yes,no,no,2,2,2,5,8,80,60,41.6,60.53333333
+110248,Gabriel Pereira,Female,18,Rural,> 3,T,Other,Other,at_home,other,course,mother,3,1 to 3,3,no,yes,no,yes,no,yes,no,no,5,2,5,4,6,45,40,32,39
+110249,Gabriel Pereira,Male,16,Rural,> 3,T,10/10+2,10/10+2,at_home,other,course,mother,3,1 to 3,0,no,no,no,no,no,yes,no,no,4,2,2,3,2,85,75,48,69.33333333
+110250,Gabriel Pereira,Male,16,Urban,> 3,T,10/10+2,10/10+2,other,services,course,father,1,3 to 4,1,no,yes,yes,no,yes,yes,yes,yes,4,5,5,5,4,50,60,38.4,49.46666667
+110251,Gabriel Pereira,Male,17,Rural,< 3,T,10/10+2,Other,at_home,other,course,mother,2,1 to 3,2,no,no,no,yes,yes,no,yes,yes,3,3,2,5,0,35,30,0,21.66666667
+110252,Gabriel Pereira,Male,15,Rural,> 3,T,10/10+2,10/10+2,other,other,course,mother,2,3 to 4,2,yes,yes,no,no,yes,yes,yes,yes,4,4,4,3,6,25,45,22.4,30.8
+110253,Gabriel Pereira,Male,16,Urban,< 3,T,Other,10/10+2,other,other,course,mother,2,1 to 3,1,no,no,no,yes,yes,yes,no,no,4,4,4,5,0,35,0,0,11.66666667
+110254,Gabriel Pereira,Male,17,Urban,> 3,T,Other,10/10+2,at_home,services,course,father,1,1 to 3,0,no,no,no,no,yes,no,yes,no,5,3,3,2,2,50,50,32,44
+110255,Gabriel Pereira,Male,17,Rural,< 3,T,Other,Other,other,services,course,mother,4,3 to 4,3,no,no,no,yes,yes,no,no,yes,5,3,5,5,0,25,40,22.4,29.13333333
+110256,Gabriel Pereira,Male,16,Urban,> 3,T,10/10+2,10/10+2,services,services,course,mother,2,1 to 3,1,no,yes,no,yes,no,no,no,no,4,5,2,2,16,60,55,38.4,51.13333333
+110257,Gabriel Pereira,Male,16,Urban,> 3,T,10/10+2,10/10+2,other,other,course,father,1,3 to 4,,no,no,no,no,yes,no,yes,no,4,3,5,4,4,50,50,32,44
+110258,Gabriel Pereira,Female,16,Urban,> 3,T,Bachelor's Degree,10/10+2,health,services,home,father,1,3 to 4,0,no,no,yes,no,yes,yes,yes,yes,4,2,3,3,0,70,75,51.2,65.4
+110259,Gabriel Pereira,Female,16,Urban,> 3,T,10/10+2,10/10+2,other,other,home,mother,1,3 to 4,0,no,yes,yes,no,no,yes,yes,no,5,1,5,4,0,30,35,0,21.66666667
+110260,Gabriel Pereira,Female,16,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,health,health,reputation,mother,1,3 to 4,0,no,yes,yes,no,yes,yes,yes,yes,4,4,2,3,0,70,70,44.8,61.6
+110261,Gabriel Pereira,Male,16,Urban,> 3,T,10/10+2,Bachelor's Degree,other,other,course,father,3,1 to 3,2,no,yes,no,yes,no,yes,yes,no,,4,5,2,0,30,25,0,18.33333333
+110262,Gabriel Pereira,Male,16,Urban,> 3,T,Other,Master's Degree,other,other,reputation,mother,2,3 to 4,0,no,yes,yes,yes,yes,yes,yes,yes,4,3,2,3,2,65,75,51.2,63.73333333
+110263,Gabriel Pereira,Male,17,Urban,< 3,T,Bachelor's Degree,Bachelor's Degree,teacher,other,reputation,mother,1,3 to 4,0,no,yes,yes,yes,yes,yes,yes,no,4,4,,5,,65,55,32,50.66666667
+110264,Gabriel Pereira,Female,16,Urban,> 3,T,Other,10/10+2,at_home,services,home,mother,1,3 to 4,3,no,no,no,yes,no,yes,yes,yes,4,3,5,3,0,40,35,0,25
+110265,Gabriel Pereira,Female,16,Urban,< 3,T,10/10+2,10/10+2,other,other,reputation,mother,2,3 to 4,0,no,yes,yes,yes,yes,yes,yes,no,4,4,5,4,4,50,55,28.8,44.6
+110266,Gabriel Pereira,Male,17,Urban,< 3,T,Bachelor's Degree,10/10+2,teacher,other,course,mother,2,3 to 4,0,no,no,yes,yes,yes,yes,yes,no,4,4,4,4,4,50,45,28.8,41.26666667
+110267,Gabriel Pereira,Female,16,Urban,> 3,T,10/10+2,10/10+2,services,other,reputation,mother,2,3 to 4,0,no,no,yes,yes,no,yes,yes,no,3,4,4,5,2,65,65,35.2,55.06666667
+110268,Gabriel Pereira,Male,17,Urban,> 3,T,10/10+2,10/10+2,other,other,reputation,father,1,3 to 4,0,no,no,no,yes,no,yes,yes,no,4,3,4,4,4,30,25,19.2,24.73333333
+110269,Gabriel Pereira,Male,16,Rural,> 3,T,Bachelor's Degree,10/10+2,teacher,services,other,mother,1,1 to 3,0,no,yes,no,yes,yes,yes,yes,yes,4,3,3,3,10,50,40,28.8,39.6
+110270,Gabriel Pereira,Male,17,Urban,> 3,T,Bachelor's Degree,10/10+2,other,other,course,mother,1,3 to 4,0,no,yes,no,yes,yes,yes,yes,yes,5,2,3,2,4,50,50,35.2,45.06666667
+110271,Gabriel Pereira,Male,16,Urban,> 3,T,Bachelor's Degree,10/10+2,teacher,other,home,mother,1,3 to 4,0,no,yes,yes,yes,yes,yes,yes,no,3,4,3,3,10,45,40,25.6,36.86666667
+110272,Gabriel Pereira,Male,16,Urban,> 3,T,10/10+2,10/10+2,services,other,home,mother,1,3 to 4,0,no,no,yes,yes,yes,yes,yes,yes,4,2,3,3,2,60,65,38.4,54.46666667
+110273,Gabriel Pereira,Female,17,Urban,> 3,T,10/10+2,Bachelor's Degree,services,services,reputation,father,1,3 to 4,0,no,yes,no,yes,yes,yes,no,no,5,4,2,5,0,80,85,54.4,73.13333333
+110274,Gabriel Pereira,Female,17,Urban,< 3,T,10/10+2,10/10+2,other,other,reputation,mother,1,3 to 4,0,no,yes,no,yes,yes,yes,yes,yes,5,3,3,1,56,45,45,25.6,38.53333333
+110275,Gabriel Pereira,Female,16,Urban,> 3,T,10/10+2,10/10+2,other,other,reputation,mother,1,3 to 4,0,no,yes,yes,no,yes,yes,yes,no,1,2,2,1,14,60,65,38.4,54.46666667
+110276,Gabriel Pereira,Male,17,Urban,> 3,T,10/10+2,10/10+2,services,services,other,mother,1,3 to 4,0,no,yes,no,yes,yes,yes,yes,yes,4,3,4,4,12,60,60,35.2,51.73333333
+110277,Gabriel Pereira,Male,16,Urban,> 3,T,Other,10/10+2,services,services,other,mother,1,1 to 3,0,no,yes,yes,yes,yes,yes,yes,yes,3,3,3,3,2,55,60,35.2,50.06666667
+110278,Gabriel Pereira,Male,16,Urban,< 3,T,10/10+2,Other,other,other,course,mother,1,3 to 4,0,no,no,yes,yes,yes,yes,yes,yes,4,2,3,5,0,75,75,48,66
+110279,Gabriel Pereira,Female,17,Urban,> 3,A,10/10+2,10/10+2,health,other,reputation,mother,1,3 to 4,0,no,yes,no,no,no,yes,yes,yes,,3,3,3,6,40,35,28.8,34.6
+110280,Gabriel Pereira,Male,17,Rural,> 3,T,Other,10/10+2,at_home,other,home,mother,1,3 to 4,0,no,no,no,no,yes,yes,no,no,3,1,3,3,4,40,45,32,39
+110281,Gabriel Pereira,Female,16,Urban,> 3,T,10/10+2,10/10+2,services,services,course,mother,1,3 to 4,0,no,no,no,no,yes,yes,yes,no,4,3,3,2,10,55,60,41.6,52.2
+110282,Gabriel Pereira,Female,17,Urban,> 3,T,Other,Other,at_home,services,course,mother,1,3 to 4,0,no,no,no,yes,yes,yes,yes,no,5,3,3,3,0,40,40,28.8,36.26666667
+110283,Gabriel Pereira,Male,17,Urban,> 3,T,Other,10/10+2,at_home,services,other,other,2,3 to 4,0,no,no,yes,yes,no,yes,yes,no,4,4,4,5,12,35,40,25.6,33.53333333
+110284,Gabriel Pereira,Male,16,Rural,> 3,T,10/10+2,10/10+2,services,services,reputation,mother,1,1 to 3,0,no,yes,no,yes,yes,yes,yes,no,4,3,2,5,8,40,45,32,39
+110285,Gabriel Pereira,Male,16,Urban,> 3,T,10/10+2,10/10+2,other,other,home,father,2,1 to 3,0,no,no,no,no,yes,yes,yes,no,5,3,3,3,0,65,70,44.8,59.93333333
+110286,Gabriel Pereira,Female,17,Urban,< 3,T,10/10+2,Bachelor's Degree,services,services,course,father,1,3 to 4,0,no,no,no,yes,yes,yes,yes,yes,4,3,2,5,0,70,75,48,64.33333333
+110287,Gabriel Pereira,Male,17,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,services,teacher,home,mother,1,1 to 3,0,no,no,no,no,yes,yes,yes,no,5,2,3,5,4,85,75,51.2,70.4
+110288,Gabriel Pereira,Male,16,Rural,< 3,T,10/10+2,10/10+2,teacher,other,home,father,3,1 to 3,0,no,yes,yes,yes,yes,yes,yes,no,3,3,4,3,8,45,45,32,40.66666667
+110289,Gabriel Pereira,Female,17,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,services,teacher,home,mother,2,1 to 3,1,no,yes,no,no,yes,yes,yes,no,4,2,4,2,24,90,90,57.6,79.2
+110290,Gabriel Pereira,Female,16,Urban,< 3,T,Bachelor's Degree,Bachelor's Degree,teacher,teacher,reputation,mother,1,3 to 4,0,no,yes,yes,no,yes,yes,yes,no,4,5,2,3,0,45,45,32,40.66666667
+110291,Gabriel Pereira,Female,16,Urban,> 3,T,Bachelor's Degree,10/10+2,health,other,home,mother,1,3 to 4,0,no,yes,no,yes,yes,yes,yes,no,4,3,5,,2,80,80,51.2,70.4
+110292,Gabriel Pereira,Female,16,Urban,> 3,T,10/10+2,10/10+2,other,other,reputation,mother,1,3 to 4,0,yes,yes,yes,yes,yes,yes,no,no,4,4,3,4,,40,50,32,40.66666667
+110293,Gabriel Pereira,Female,17,Urban,> 3,T,Other,Other,other,other,course,mother,1,3 to 4,0,no,yes,yes,no,no,yes,no,no,4,4,4,1,,45,45,32,40.66666667
+110294,Gabriel Pereira,Female,17,Rural,> 3,T,10/10+2,10/10+2,other,other,reputation,mother,1,1 to 3,0,no,yes,no,no,yes,yes,yes,no,5,,2,3,18,,30,19.2,28.06666667
+110295,Gabriel Pereira,Female,16,Rural,> 3,T,10/10+2,10/10+2,services,services,reputation,mother,2,more then 4,0,no,yes,yes,yes,no,yes,yes,no,5,3,5,5,6,50,50,35.2,45.06666667
+110296,Gabriel Pereira,Female,17,Urban,> 3,T,10/10+2,Bachelor's Degree,at_home,services,home,mother,1,more then 4,1,no,yes,yes,no,yes,yes,yes,yes,4,4,3,5,28,50,45,28.8,41.26666667
+110297,Gabriel Pereira,Female,16,Urban,> 3,A,10/10+2,Other,services,other,course,mother,1,3 to 4,3,no,yes,yes,no,yes,yes,yes,no,,3,3,4,5,35,35,22.4,30.8
+110298,Gabriel Pereira,Female,16,Urban,> 3,T,Bachelor's Degree,10/10+2,teacher,other,other,mother,1,3 to 4,0,no,no,yes,yes,yes,yes,yes,yes,1,3,2,1,10,55,60,41.6,52.2
+110299,Gabriel Pereira,Female,16,Urban,> 3,T,Other,Other,at_home,other,home,mother,2,1 to 3,,no,yes,yes,no,yes,yes,no,no,4,3,2,5,6,45,45,32,40.66666667
+110300,Gabriel Pereira,Female,17,Rural,> 3,T,Bachelor's Degree,10/10+2,teacher,other,reputation,mother,2,more then 4,0,no,yes,yes,yes,yes,yes,yes,yes,4,4,2,4,6,35,35,22.4,30.8
+110301,Gabriel Pereira,Female,19,Urban,> 3,T,10/10+2,10/10+2,other,other,reputation,other,1,more then 4,0,no,yes,yes,yes,yes,yes,yes,no,4,3,3,3,10,40,40,25.6,35.2
+110302,Gabriel Pereira,Male,17,Urban,< 3,T,Bachelor's Degree,Bachelor's Degree,services,other,home,mother,1,3 to 4,0,no,yes,yes,no,yes,yes,yes,yes,5,3,5,3,13,60,60,41.6,53.86666667
+110303,Gabriel Pereira,Female,16,Urban,> 3,A,10/10+2,10/10+2,other,other,reputation,mother,1,3 to 4,0,yes,yes,yes,no,yes,yes,yes,no,3,3,,4,,60,65,44.8,56.6
+110304,Gabriel Pereira,Male,18,Urban,> 3,T,10/10+2,10/10+2,services,other,home,mother,1,3 to 4,1,no,yes,yes,yes,yes,yes,yes,no,4,4,4,5,15,30,35,25.6,30.2
+110305,Gabriel Pereira,Female,17,Rural,< 3,T,Bachelor's Degree,Bachelor's Degree,services,other,other,mother,1,1 to 3,0,no,yes,yes,no,yes,yes,no,no,5,2,1,3,12,40,50,32,40.66666667
+110306,Gabriel Pereira,Female,17,Urban,< 3,T,10/10+2,10/10+2,other,other,reputation,mother,2,3 to 4,0,no,no,yes,no,yes,yes,yes,no,4,4,4,1,2,70,75,48,64.33333333
+110307,Gabriel Pereira,Female,17,Urban,> 3,T,Bachelor's Degree,10/10+2,other,other,reputation,mother,1,3 to 4,2,no,no,yes,no,yes,yes,yes,yes,3,4,5,1,22,30,30,12.8,24.26666667
+110308,Gabriel Pereira,Male,18,Urban,< 3,T,10/10+2,10/10+2,services,health,home,father,1,3 to 4,1,no,yes,yes,no,yes,yes,yes,no,3,2,4,4,13,30,30,25.6,28.53333333
+110309,Gabriel Pereira,Female,17,Urban,> 3,T,10/10+2,10/10+2,at_home,other,home,father,2,1 to 3,0,no,yes,yes,no,yes,yes,no,no,,3,3,3,3,35,35,25.6,31.86666667
+110310,Gabriel Pereira,Female,17,Urban,> 3,T,10/10+2,10/10+2,at_home,at_home,course,mother,1,more then 4,0,no,yes,yes,yes,yes,yes,yes,no,4,3,3,4,4,45,50,32,42.33333333
+110311,Gabriel Pereira,Female,17,Rural,> 3,T,10/10+2,Other,at_home,services,reputation,mother,2,3 to 4,0,no,yes,no,yes,yes,yes,yes,no,4,2,5,5,2,30,30,19.2,26.4
+110312,Gabriel Pereira,Female,17,Urban,> 3,T,Other,Other,at_home,other,reputation,mother,1,more then 4,1,no,yes,no,yes,yes,yes,no,yes,4,3,4,5,0,30,25,0,18.33333333
+110313,Gabriel Pereira,Female,16,Urban,> 3,T,10/10+2,10/10+2,services,teacher,other,mother,1,3 to 4,0,yes,no,no,no,yes,yes,yes,no,2,3,1,3,2,80,80,54.4,71.46666667
+110314,Gabriel Pereira,Male,18,Urban,> 3,T,10/10+2,10/10+2,other,other,home,mother,2,3 to 4,0,no,yes,yes,no,yes,yes,yes,no,3,3,3,4,0,60,65,41.6,55.53333333
+110315,Gabriel Pereira,Female,16,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,teacher,services,home,mother,1,more then 4,0,no,yes,no,yes,no,yes,yes,no,,3,2,5,0,65,65,44.8,58.26666667
+110316,Gabriel Pereira,Female,18,Rural,> 3,T,10/10+2,Other,other,other,reputation,mother,1,3 to 4,1,no,no,no,yes,yes,yes,yes,yes,5,3,3,4,16,45,40,22.4,35.8
+110317,Gabriel Pereira,Female,17,Urban,> 3,T,10/10+2,10/10+2,other,other,course,mother,1,3 to 4,0,no,no,no,yes,no,yes,yes,no,5,3,4,3,10,80,75,48,67.66666667
+110318,Gabriel Pereira,Male,17,Urban,< 3,T,10/10+2,10/10+2,services,services,reputation,father,1,3 to 4,0,no,yes,yes,no,no,yes,yes,no,5,3,3,3,2,60,55,38.4,51.13333333
+110319,Gabriel Pereira,Male,18,Urban,< 3,T,10/10+2,Other,at_home,other,course,mother,4,3 to 4,0,yes,yes,yes,yes,yes,yes,yes,yes,4,3,2,3,14,50,40,28.8,39.6
+110320,Gabriel Pereira,Female,17,Urban,> 3,A,10/10+2,Other,other,other,course,mother,2,more then 4,0,no,no,no,yes,yes,yes,yes,yes,3,2,3,3,10,60,50,38.4,49.46666667
+110321,Gabriel Pereira,Female,17,Urban,< 3,T,Bachelor's Degree,10/10+2,health,other,reputation,father,1,3 to 4,0,no,no,no,yes,yes,yes,yes,yes,3,2,3,3,14,65,65,44.8,58.26666667
+110322,Gabriel Pereira,Male,17,Rural,> 3,T,10/10+2,10/10+2,other,other,course,father,2,3 to 4,0,no,yes,yes,yes,yes,yes,yes,no,4,5,2,1,4,55,55,35.2,48.4
+110323,Gabriel Pereira,Male,17,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,teacher,teacher,reputation,mother,1,3 to 4,0,yes,yes,no,yes,yes,yes,yes,yes,4,5,5,2,14,55,45,28.8,42.93333333
+110324,Gabriel Pereira,Male,16,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,health,other,reputation,father,1,3 to 4,0,no,yes,yes,yes,yes,yes,yes,no,4,2,4,1,2,70,65,41.6,58.86666667
+110325,Gabriel Pereira,Male,16,Urban,< 3,T,Other,Other,other,other,home,mother,2,3 to 4,0,no,yes,yes,no,yes,yes,yes,no,3,4,2,5,18,45,35,19.2,33.06666667
+110326,Gabriel Pereira,Male,16,Urban,> 3,T,10/10+2,10/10+2,at_home,other,reputation,mother,2,more then 4,0,no,no,no,yes,yes,yes,yes,yes,5,3,3,2,10,55,45,32,44
+110327,Gabriel Pereira,Male,17,Urban,< 3,T,10/10+2,10/10+2,other,other,home,father,1,3 to 4,0,no,no,yes,yes,no,yes,yes,yes,4,4,2,4,4,70,65,41.6,58.86666667
+110328,Gabriel Pereira,Female,16,Urban,> 3,T,10/10+2,Other,other,other,home,mother,1,1 to 3,0,no,no,no,no,yes,yes,yes,yes,,5,,5,20,65,60,38.4,54.46666667
+110329,Gabriel Pereira,Female,17,Rural,> 3,T,10/10+2,Other,at_home,services,course,mother,3,3 to 4,0,no,no,no,yes,yes,yes,no,no,2,1,1,3,2,65,55,35.2,51.73333333
+110330,Gabriel Pereira,Male,18,Urban,> 3,T,10/10+2,10/10+2,other,services,reputation,father,1,3 to 4,1,no,no,no,no,yes,no,yes,no,5,5,4,2,0,35,35,0,23.33333333
+110331,Gabriel Pereira,Male,17,Urban,< 3,T,Bachelor's Degree,10/10+2,health,other,course,mother,2,3 to 4,0,no,no,no,yes,yes,yes,yes,yes,2,5,5,5,14,60,60,38.4,52.8
+110332,Gabriel Pereira,Male,17,Rural,< 3,A,Bachelor's Degree,Bachelor's Degree,teacher,other,course,mother,2,3 to 4,0,no,yes,yes,no,yes,yes,yes,no,3,3,3,4,2,50,55,38.4,47.8
+110333,Gabriel Pereira,Male,16,Urban,< 3,T,Bachelor's Degree,10/10+2,teacher,other,course,mother,1,1 to 3,0,no,no,no,yes,no,yes,yes,no,5,4,5,3,0,30,0,0,10
+110334,Gabriel Pereira,Male,16,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,services,services,course,mother,1,1 to 3,0,no,no,no,yes,yes,yes,yes,no,5,3,2,5,0,65,60,38.4,54.46666667
+110335,Gabriel Pereira,Female,18,Urban,> 3,T,10/10+2,Other,other,other,course,other,2,more then 4,0,no,yes,yes,no,no,yes,yes,yes,4,4,4,3,0,35,0,0,11.66666667
+110336,Gabriel Pereira,Male,16,Urban,> 3,T,10/10+2,Other,other,other,course,mother,3,1 to 3,0,no,no,no,no,yes,yes,yes,no,4,3,3,4,6,90,90,57.6,79.2
+110337,Gabriel Pereira,Male,17,Urban,> 3,T,10/10+2,10/10+2,other,other,course,father,2,1 to 3,0,no,no,no,no,yes,yes,yes,no,5,2,2,2,4,60,60,41.6,53.86666667
+110338,Gabriel Pereira,Male,22,Urban,> 3,T,10/10+2,Other,services,services,other,mother,1,1 to 3,3,no,no,no,no,no,no,yes,yes,5,4,5,1,16,30,40,25.6,31.86666667
+110339,Gabriel Pereira,Male,18,Rural,< 3,T,10/10+2,10/10+2,other,services,course,mother,1,3 to 4,1,no,yes,no,no,yes,yes,yes,yes,4,3,3,5,8,15,25,16,18.66666667
+110340,Gabriel Pereira,Male,16,Urban,> 3,T,Master's Degree,10/10+2,other,other,other,mother,1,1 to 3,0,no,no,yes,no,no,yes,yes,no,4,3,2,5,0,65,75,48,62.66666667
+110341,Gabriel Pereira,Male,18,Urban,> 3,T,10/10+2,10/10+2,services,other,course,mother,2,1 to 3,1,no,no,no,no,yes,no,yes,no,4,4,5,5,0,30,40,25.6,31.86666667
+110342,Gabriel Pereira,Male,16,Urban,> 3,T,10/10+2,10/10+2,at_home,other,reputation,other,3,3 to 4,0,yes,yes,no,no,no,yes,yes,no,5,3,3,2,6,35,50,32,39
+110343,Gabriel Pereira,Male,18,Urban,> 3,T,10/10+2,Other,services,services,other,mother,1,1 to 3,1,no,no,no,no,no,no,yes,no,3,2,5,5,4,30,45,25.6,33.53333333
+110344,Gabriel Pereira,Male,16,Rural,> 3,T,10/10+2,Other,other,other,course,mother,2,1 to 3,0,no,no,no,yes,no,yes,no,no,3,3,2,3,0,40,45,25.6,36.86666667
+110345,Gabriel Pereira,Male,17,Rural,> 3,T,10/10+2,Other,other,other,course,mother,1,1 to 3,0,no,no,no,no,no,yes,yes,no,4,4,2,5,0,40,60,38.4,46.13333333
+110346,Gabriel Pereira,Male,17,Urban,< 3,T,Other,Other,health,other,course,mother,2,1 to 3,1,no,yes,no,yes,yes,yes,yes,no,4,4,4,5,2,35,45,25.6,35.2
+110347,Gabriel Pereira,Female,17,Urban,< 3,T,Bachelor's Degree,10/10+2,teacher,services,reputation,mother,1,more then 4,0,no,yes,yes,yes,yes,yes,yes,no,4,2,3,4,,70,60,41.6,57.2
+110348,Gabriel Pereira,Male,19,Urban,< 3,A,Bachelor's Degree,10/10+2,services,at_home,reputation,mother,1,3 to 4,0,no,yes,no,no,yes,yes,yes,no,4,3,1,1,12,55,55,35.2,48.4
+110349,Gabriel Pereira,Male,18,Urban,> 3,T,10/10+2,Other,other,other,home,mother,1,3 to 4,0,no,no,no,yes,yes,yes,yes,no,5,2,4,4,8,75,70,44.8,63.26666667
+110350,Gabriel Pereira,Female,17,Urban,< 3,T,10/10+2,10/10+2,services,services,course,father,1,more then 4,0,no,no,yes,yes,yes,yes,yes,yes,3,4,1,2,0,50,45,0,31.66666667
+110351,Gabriel Pereira,Female,18,Urban,> 3,T,Bachelor's Degree,10/10+2,services,other,home,father,1,3 to 4,0,no,yes,yes,no,yes,yes,yes,yes,3,1,2,2,21,85,90,57.6,77.53333333
+110352,Gabriel Pereira,Male,18,Urban,> 3,T,Bachelor's Degree,10/10+2,teacher,other,course,mother,1,3 to 4,0,no,yes,yes,no,no,yes,yes,no,4,3,2,3,2,40,40,25.6,35.2
+110353,Gabriel Pereira,Male,18,Rural,> 3,T,10/10+2,10/10+2,other,other,course,mother,1,more then 4,0,no,no,no,yes,no,yes,no,no,5,3,2,3,1,65,60,38.4,54.46666667
+110354,Gabriel Pereira,Female,17,Urban,> 3,T,10/10+2,10/10+2,other,other,home,mother,1,more then 4,0,no,no,no,yes,no,yes,no,no,3,2,3,4,4,50,45,28.8,41.26666667
+110355,Gabriel Pereira,Female,18,Urban,> 3,T,10/10+2,10/10+2,at_home,services,home,mother,1,more then 4,0,no,yes,yes,yes,yes,yes,yes,yes,4,3,3,3,0,45,50,0,31.66666667
+110356,Gabriel Pereira,Male,18,Rural,< 3,A,10/10+2,Bachelor's Degree,other,other,reputation,mother,2,3 to 4,0,no,yes,yes,yes,yes,yes,yes,no,4,2,5,1,13,85,85,54.4,74.8
+110357,Gabriel Pereira,Male,17,Urban,> 3,T,10/10+2,Other,services,other,other,mother,1,3 to 4,0,no,no,yes,yes,yes,yes,yes,yes,5,4,4,5,2,45,45,32,40.66666667
+110358,Gabriel Pereira,Female,18,Rural,> 3,T,Bachelor's Degree,Bachelor's Degree,teacher,other,reputation,mother,2,3 to 4,0,no,no,yes,yes,yes,yes,yes,no,4,3,4,4,8,60,50,35.2,48.4
+110359,Gabriel Pereira,Male,18,Urban,> 3,T,Bachelor's Degree,10/10+2,health,other,reputation,father,1,3 to 4,0,no,yes,yes,yes,yes,yes,yes,yes,5,4,5,5,10,50,45,32,42.33333333
+110360,Gabriel Pereira,Female,18,Rural,> 3,T,10/10+2,Other,other,other,reputation,mother,2,3 to 4,0,no,yes,no,no,yes,no,yes,yes,4,3,,3,0,30,0,0,10
+110361,Gabriel Pereira,Female,19,Urban,> 3,T,10/10+2,10/10+2,other,services,home,other,1,3 to 4,2,no,yes,yes,yes,yes,yes,yes,no,4,3,5,5,15,45,45,28.8,39.6
+110362,Gabriel Pereira,Female,18,Urban,> 3,T,10/10+2,10/10+2,other,services,reputation,father,1,more then 4,0,no,yes,yes,yes,yes,yes,yes,yes,4,5,5,2,4,75,70,44.8,63.26666667
+110363,Gabriel Pereira,Female,18,Urban,< 3,T,Other,Other,other,other,home,mother,2,3 to 4,0,no,yes,yes,no,no,yes,no,no,4,4,3,3,2,55,55,35.2,48.4
+110364,Gabriel Pereira,Male,17,Rural,> 3,T,Other,10/10+2,at_home,at_home,home,mother,1,3 to 4,,no,yes,yes,yes,no,yes,no,yes,3,5,2,1,2,75,70,44.8,63.26666667
+110365,Gabriel Pereira,Female,17,Urban,> 3,T,10/10+2,Bachelor's Degree,at_home,health,reputation,mother,2,3 to 4,0,no,yes,yes,no,yes,yes,yes,yes,4,3,3,1,2,50,50,32,44
+110366,Gabriel Pereira,Female,17,Urban,< 3,T,10/10+2,10/10+2,services,other,course,mother,2,3 to 4,0,yes,yes,yes,no,yes,yes,yes,yes,4,4,4,5,6,60,60,38.4,52.8
+110367,Gabriel Pereira,Female,18,Rural,> 3,A,10/10+2,10/10+2,other,services,home,mother,2,3 to 4,0,no,no,no,no,no,no,yes,yes,4,1,1,5,75,50,45,28.8,41.26666667
+110368,Gabriel Pereira,Male,18,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,teacher,services,home,mother,2,1 to 3,0,no,no,yes,yes,yes,yes,yes,no,3,2,4,3,22,45,45,28.8,39.6
+110369,Gabriel Pereira,Female,18,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,health,health,reputation,father,1,3 to 4,1,yes,yes,no,yes,yes,yes,yes,yes,2,4,4,4,15,45,40,25.6,36.86666667
+110370,Gabriel Pereira,Male,18,Urban,< 3,T,Bachelor's Degree,10/10+2,teacher,services,course,mother,2,1 to 3,0,no,no,yes,yes,yes,yes,yes,no,4,2,3,1,8,50,55,32,45.66666667
+110371,Gabriel Pereira,Male,17,Urban,< 3,A,Bachelor's Degree,Other,services,other,home,mother,2,1 to 3,0,no,no,yes,yes,yes,yes,yes,yes,4,5,4,5,30,40,40,25.6,35.2
+110372,Gabriel Pereira,Male,17,Urban,< 3,A,10/10+2,10/10+2,teacher,services,home,mother,1,1 to 3,1,no,no,no,no,yes,yes,yes,no,4,4,4,3,19,55,45,32,44
+110373,Gabriel Pereira,Female,18,Rural,< 3,T,Other,Other,at_home,other,reputation,mother,2,more then 4,0,no,yes,yes,yes,yes,yes,no,no,5,2,2,3,1,60,60,38.4,52.8
+110374,Gabriel Pereira,Female,18,Urban,> 3,T,Other,Other,other,other,home,mother,2,3 to 4,0,yes,no,no,yes,yes,yes,yes,no,5,4,4,4,4,40,45,32,39
+110375,Gabriel Pereira,Female,17,Urban,> 3,T,10/10+2,10/10+2,other,other,course,mother,1,3 to 4,0,no,yes,no,no,no,yes,yes,no,5,,5,5,4,50,45,35.2,43.4
+110376,Gabriel Pereira,Male,17,Urban,> 3,T,Other,Other,other,other,reputation,father,1,3 to 4,0,no,no,yes,no,no,yes,yes,no,4,3,3,4,2,60,50,35.2,48.4
+110377,Gabriel Pereira,Female,18,Urban,> 3,T,10/10+2,10/10+2,at_home,at_home,other,mother,1,more then 4,0,no,yes,yes,no,yes,yes,yes,no,4,3,3,2,5,90,90,60.8,80.26666667
+110378,Gabriel Pereira,Female,17,Urban,> 3,T,Other,Other,services,teacher,reputation,mother,1,more then 4,0,no,yes,yes,no,yes,yes,yes,no,4,3,3,3,6,65,60,38.4,54.46666667
+110379,Gabriel Pereira,Male,18,Urban,> 3,T,10/10+2,Other,services,services,reputation,mother,1,more then 4,0,no,no,yes,yes,yes,yes,yes,no,4,2,4,2,6,75,70,44.8,63.26666667
+110380,Gabriel Pereira,Male,18,Urban,< 3,A,Bachelor's Degree,Bachelor's Degree,teacher,teacher,reputation,mother,1,3 to 4,0,no,yes,yes,yes,yes,yes,yes,no,5,4,3,2,9,75,65,48,62.66666667
+110381,Gabriel Pereira,Male,18,Urban,> 3,T,Bachelor's Degree,10/10+2,teacher,other,home,mother,1,3 to 4,0,no,yes,yes,yes,yes,yes,yes,yes,4,3,2,5,11,60,55,35.2,50.06666667
+110382,Gabriel Pereira,Female,17,Urban,> 3,T,Bachelor's Degree,10/10+2,health,services,reputation,mother,1,more then 4,0,no,yes,yes,no,yes,yes,yes,no,4,2,2,3,0,75,75,48,66
+110383,Gabriel Pereira,Female,18,Urban,< 3,T,10/10+2,Other,services,at_home,reputation,mother,1,3 to 4,1,no,no,no,no,yes,yes,yes,yes,5,4,3,5,12,60,60,41.6,53.86666667
+110384,Gabriel Pereira,Female,17,Rural,< 3,T,10/10+2,Other,services,other,reputation,mother,2,more then 4,0,no,yes,yes,no,yes,yes,no,no,3,1,2,3,6,90,90,57.6,79.2
+110385,Gabriel Pereira,Male,18,Rural,< 3,T,10/10+2,10/10+2,services,other,reputation,mother,2,more then 4,0,no,yes,yes,yes,yes,yes,yes,no,5,4,2,4,8,70,65,44.8,59.93333333
+110386,Gabriel Pereira,Male,17,Urban,> 3,T,10/10+2,10/10+2,health,other,home,mother,1,1 to 3,0,no,yes,yes,no,yes,yes,yes,no,4,4,3,5,4,70,60,35.2,55.06666667
+110387,Gabriel Pereira,Female,19,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,health,other,reputation,other,2,3 to 4,0,no,yes,yes,yes,yes,yes,yes,no,2,3,4,2,0,50,45,0,31.66666667
+110388,Gabriel Pereira,Female,18,Urban,< 3,T,Bachelor's Degree,10/10+2,other,other,home,other,2,3 to 4,0,no,yes,yes,no,yes,yes,yes,yes,4,4,5,2,10,50,40,25.6,38.53333333
+110389,Gabriel Pereira,Female,18,Urban,> 3,T,Bachelor's Degree,10/10+2,other,other,reputation,father,1,more then 4,0,no,yes,yes,no,yes,yes,yes,no,4,3,3,3,0,70,65,44.8,59.93333333
+110390,Gabriel Pereira,Male,18,Urban,< 3,T,Bachelor's Degree,Bachelor's Degree,teacher,teacher,home,mother,1,1 to 3,0,no,yes,yes,no,yes,yes,yes,yes,1,4,2,1,5,80,75,51.2,68.73333333
+110391,Gabriel Pereira,Female,18,Urban,< 3,A,Bachelor's Degree,Bachelor's Degree,health,other,home,mother,1,3 to 4,0,no,yes,no,no,yes,yes,yes,yes,4,2,4,,14,60,50,35.2,48.4
+110392,Gabriel Pereira,Male,17,Urban,< 3,T,Bachelor's Degree,Bachelor's Degree,other,teacher,home,father,2,1 to 3,0,no,no,yes,no,yes,yes,yes,no,4,1,1,5,0,55,55,32,47.33333333
+110393,Gabriel Pereira,Female,17,Urban,> 3,T,Bachelor's Degree,10/10+2,other,other,reputation,mother,2,more then 4,0,no,yes,yes,no,yes,yes,yes,no,4,3,3,3,0,75,60,44.8,59.93333333
+110394,Gabriel Pereira,Female,17,Urban,> 3,T,10/10+2,10/10+2,health,health,reputation,father,1,more then 4,0,no,yes,yes,yes,no,yes,yes,no,5,2,2,5,0,85,85,57.6,75.86666667
+110395,Gabriel Pereira,Male,19,Urban,> 3,T,10/10+2,10/10+2,other,other,home,other,1,3 to 4,1,no,yes,no,yes,yes,yes,yes,yes,4,4,4,3,20,75,70,41.6,62.2
+110396,Gabriel Pereira,Female,18,Urban,> 3,T,10/10+2,Bachelor's Degree,services,at_home,reputation,other,1,3 to 4,1,no,yes,yes,yes,yes,yes,yes,no,4,4,3,3,8,70,60,38.4,56.13333333
+110397,Gabriel Pereira,Male,20,Urban,> 3,A,10/10+2,10/10+2,services,other,course,other,1,1 to 3,0,no,no,no,yes,yes,yes,no,no,5,5,3,5,0,85,90,57.6,77.53333333
+110398,Gabriel Pereira,Male,19,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,teacher,services,reputation,other,2,1 to 3,1,no,yes,yes,no,yes,yes,yes,yes,4,3,4,4,38,40,45,25.6,36.86666667
+110399,Gabriel Pereira,Male,19,Rural,> 3,T,10/10+2,10/10+2,other,services,reputation,father,1,3 to 4,1,no,no,no,yes,yes,yes,no,yes,4,5,3,5,0,75,60,38.4,57.8
+110400,Gabriel Pereira,Female,19,Urban,< 3,T,Other,Other,at_home,other,reputation,other,1,3 to 4,1,yes,yes,no,yes,no,yes,yes,no,4,4,3,3,18,60,50,32,47.33333333
+110401,Gabriel Pereira,Female,19,Urban,< 3,T,Other,10/10+2,services,services,home,other,1,3 to 4,1,no,no,no,yes,no,yes,no,yes,4,2,4,3,0,45,45,0,30
+110402,Gabriel Pereira,Female,19,Urban,> 3,T,10/10+2,Other,at_home,other,other,other,3,3 to 4,0,no,yes,no,no,yes,no,yes,yes,3,4,1,2,20,70,60,41.6,57.2
+110403,Gabriel Pereira,Male,19,Urban,> 3,T,Other,10/10+2,other,services,course,other,1,3 to 4,1,no,no,no,no,no,yes,yes,no,4,5,2,4,3,65,55,35.2,51.73333333
+110404,Gabriel Pereira,Female,19,Urban,< 3,T,10/10+2,10/10+2,services,other,reputation,other,2,3 to 4,1,no,yes,yes,no,no,yes,yes,yes,4,2,2,1,22,65,50,35.2,50.06666667
+110405,Gabriel Pereira,Female,19,Urban,> 3,T,Other,Other,at_home,health,home,other,1,more then 4,2,no,no,no,no,no,yes,yes,yes,4,1,2,3,14,75,65,41.6,60.53333333
+110406,Gabriel Pereira,Female,19,Rural,> 3,T,10/10+2,10/10+2,other,other,reputation,other,1,more then 4,1,no,no,no,no,yes,yes,yes,yes,4,1,2,3,40,65,55,35.2,51.73333333
+110407,Gabriel Pereira,Female,18,Urban,> 3,T,10/10+2,Other,services,other,course,mother,2,3 to 4,0,no,yes,yes,yes,yes,yes,yes,no,5,3,3,1,0,40,40,0,26.66666667
+110408,Gabriel Pereira,Female,18,Urban,> 3,T,Bachelor's Degree,10/10+2,other,other,course,mother,1,more then 4,0,no,yes,yes,yes,yes,yes,yes,yes,4,3,4,5,9,45,50,28.8,41.26666667
+110409,Gabriel Pereira,Female,17,Rural,> 3,T,10/10+2,Bachelor's Degree,at_home,services,course,father,1,more then 4,0,no,yes,yes,yes,no,yes,yes,no,4,3,4,5,0,55,55,32,47.33333333
+110410,Gabriel Pereira,Female,18,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,teacher,other,course,mother,1,3 to 4,0,no,yes,yes,no,yes,yes,yes,no,4,4,4,5,2,55,55,35.2,48.4
+110411,Gabriel Pereira,Female,17,Urban,> 3,A,Bachelor's Degree,10/10+2,services,services,course,mother,1,3 to 4,0,no,yes,yes,no,yes,yes,yes,yes,5,2,2,5,23,65,65,41.6,57.2
+110412,Gabriel Pereira,Female,17,Urban,> 3,T,10/10+2,10/10+2,other,other,course,mother,1,3 to 4,0,no,yes,no,no,yes,yes,no,yes,4,2,2,3,12,55,45,28.8,42.93333333
+110413,Gabriel Pereira,Female,17,Rural,< 3,T,10/10+2,10/10+2,services,services,course,mother,1,more then 4,0,no,yes,yes,yes,yes,yes,yes,no,3,3,2,3,3,55,55,35.2,48.4
+110414,Gabriel Pereira,Female,17,Urban,> 3,T,10/10+2,Other,services,services,course,father,1,more then 4,0,no,yes,no,no,no,yes,yes,no,3,4,3,5,1,60,70,48,59.33333333
+110415,Gabriel Pereira,Female,17,Urban,< 3,T,Master's Degree,10/10+2,at_home,at_home,home,father,2,more then 4,0,no,no,no,no,yes,yes,yes,no,3,3,3,2,0,80,75,48,67.66666667
+110416,Gabriel Pereira,Male,18,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,other,other,course,mother,1,more then 4,0,no,no,no,yes,yes,yes,yes,no,4,3,3,3,3,45,60,35.2,46.73333333
+110417,Gabriel Pereira,Male,17,Urban,> 3,T,10/10+2,10/10+2,other,services,reputation,mother,1,1 to 3,0,no,no,no,yes,no,yes,yes,no,4,3,5,5,3,70,75,51.2,65.4
+110418,Gabriel Pereira,Male,17,Rural,> 3,T,10/10+2,10/10+2,services,other,course,mother,4,1 to 3,0,no,yes,no,no,yes,yes,yes,no,4,4,5,4,8,55,50,32,45.66666667
+110419,Gabriel Pereira,Female,17,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,teacher,services,course,mother,1,more then 4,0,no,yes,yes,yes,yes,yes,yes,no,5,4,4,4,7,50,45,28.8,41.26666667
+110420,Gabriel Pereira,Female,17,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,teacher,teacher,course,mother,2,more then 4,,no,yes,yes,no,no,yes,yes,yes,4,3,3,4,4,70,70,44.8,61.6
+110421,Gabriel Pereira,Male,18,Urban,< 3,T,10/10+2,10/10+2,other,other,course,mother,1,more then 4,,no,yes,no,yes,yes,yes,yes,no,4,5,5,5,2,45,40,25.6,36.86666667
+110422,Gabriel Pereira,Female,17,Rural,> 3,T,10/10+2,Bachelor's Degree,at_home,other,course,father,1,more then 4,0,no,yes,no,no,yes,yes,yes,yes,4,4,3,5,7,60,70,44.8,58.26666667
+110423,Gabriel Pereira,Female,18,Urban,> 3,T,10/10+2,10/10+2,services,services,home,mother,1,3 to 4,0,no,no,no,yes,yes,yes,yes,no,5,3,4,4,0,35,0,0,11.66666667
+110424,Gabriel Pereira,Female,18,Urban,< 3,T,10/10+2,10/10+2,other,other,home,other,1,3 to 4,0,no,no,no,yes,no,yes,yes,yes,4,3,3,2,0,40,40,0,26.66666667
+110425,Gabriel Pereira,Female,18,Rural,> 3,T,10/10+2,10/10+2,at_home,other,course,mother,2,more then 4,0,no,no,no,yes,yes,yes,no,no,4,4,4,4,0,50,45,0,31.66666667
+110426,Gabriel Pereira,Female,17,Urban,> 3,T,10/10+2,Bachelor's Degree,services,other,course,mother,1,more then 4,0,no,no,no,no,yes,yes,yes,no,4,4,5,5,16,80,75,48,67.66666667
+110427,Gabriel Pereira,Female,19,Rural,> 3,A,10/10+2,Other,services,at_home,home,other,1,more then 4,1,no,no,yes,no,yes,yes,no,no,5,4,3,5,12,70,65,41.6,58.86666667
+110428,Gabriel Pereira,Female,17,Urban,> 3,T,10/10+2,10/10+2,other,other,home,mother,1,3 to 4,0,no,yes,yes,no,yes,yes,yes,yes,4,3,2,2,0,35,40,0,25
+110429,Gabriel Pereira,Female,18,Urban,< 3,T,10/10+2,10/10+2,services,services,home,mother,1,more then 4,0,no,yes,no,no,yes,yes,yes,no,5,3,3,1,7,80,75,54.4,69.8
+110430,Gabriel Pereira,Female,17,Rural,> 3,A,10/10+2,10/10+2,other,other,home,mother,1,3 to 4,0,no,yes,yes,no,yes,yes,yes,no,4,3,3,2,4,45,50,32,42.33333333
+110431,Gabriel Pereira,Female,19,Urban,> 3,T,10/10+2,Other,services,services,home,other,1,more then 4,1,no,no,yes,yes,yes,yes,yes,yes,4,3,4,3,4,55,60,35.2,50.06666667
+110432,Gabriel Pereira,Male,18,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,teacher,services,home,father,1,3 to 4,1,no,yes,no,yes,yes,yes,yes,no,4,3,3,2,0,50,50,0,33.33333333
+110433,Gabriel Pereira,Male,18,Urban,< 3,T,10/10+2,Bachelor's Degree,services,other,home,mother,1,3 to 4,0,no,no,no,yes,yes,yes,yes,yes,4,3,3,5,11,80,75,48,67.66666667
+110434,Gabriel Pereira,Female,17,Urban,> 3,A,10/10+2,10/10+2,at_home,at_home,home,father,1,3 to 4,1,no,yes,no,no,yes,yes,yes,yes,3,3,1,4,0,45,40,0,28.33333333
+110435,Gabriel Pereira,Female,18,Urban,> 3,T,10/10+2,10/10+2,at_home,other,course,mother,1,more then 4,0,no,yes,no,no,yes,yes,yes,no,4,3,3,3,4,55,50,32,45.66666667
+110436,Gabriel Pereira,Female,18,Urban,> 3,T,10/10+2,10/10+2,other,services,other,mother,1,more then 4,0,no,no,no,no,yes,yes,yes,yes,5,4,3,1,7,65,65,44.8,58.26666667
+110437,Gabriel Pereira,Male,18,Rural,> 3,T,Bachelor's Degree,10/10+2,teacher,services,course,mother,1,more then 4,0,no,no,no,no,yes,yes,yes,yes,5,3,2,4,9,80,75,51.2,68.73333333
+110438,Gabriel Pereira,Male,18,Urban,> 3,T,Bachelor's Degree,10/10+2,teacher,other,course,mother,1,more then 4,0,no,yes,yes,no,yes,yes,yes,yes,5,4,5,5,0,50,50,28.8,42.93333333
+110439,Gabriel Pereira,Female,17,Urban,> 3,T,Bachelor's Degree,10/10+2,health,other,reputation,mother,1,more then 4,0,no,yes,yes,yes,yes,yes,yes,yes,4,4,3,4,0,65,75,48,62.66666667
+110440,Mousinho da Silveira,Female,18,Rural,> 3,T,10/10+2,10/10+2,other,other,course,mother,2,1 to 3,1,no,yes,no,no,no,yes,yes,no,2,5,5,5,10,55,65,41.6,53.86666667
+110441,Mousinho da Silveira,Male,19,Rural,> 3,T,Other,Other,other,services,home,other,3,3 to 4,3,no,no,no,no,yes,yes,yes,no,5,4,4,2,8,40,35,25.6,33.53333333
+110442,Mousinho da Silveira,Male,17,Urban,> 3,T,10/10+2,10/10+2,health,other,course,mother,2,3 to 4,,no,yes,yes,no,yes,yes,yes,no,4,5,4,3,2,65,65,41.6,57.2
+110443,Mousinho da Silveira,Male,18,Urban,< 3,T,Other,10/10+2,at_home,services,course,mother,1,1 to 3,1,no,no,no,no,yes,no,yes,yes,4,3,3,3,7,40,35,25.6,33.53333333
+110444,Mousinho da Silveira,Male,19,Rural,> 3,T,Other,Other,other,other,home,other,3,1 to 3,1,no,yes,no,no,yes,yes,yes,no,4,4,4,5,4,40,40,25.6,35.2
+110445,Mousinho da Silveira,Male,17,Rural,> 3,T,Bachelor's Degree,10/10+2,services,other,home,mother,2,3 to 4,0,no,yes,yes,yes,no,yes,yes,yes,4,5,5,2,4,65,55,35.2,51.73333333
+110446,Mousinho da Silveira,Female,18,Urban,> 3,T,10/10+2,10/10+2,services,services,course,father,1,3 to 4,0,no,yes,no,no,yes,yes,no,yes,5,3,4,5,0,50,45,28.8,41.26666667
+110447,Mousinho da Silveira,Female,17,Rural,> 3,T,Bachelor's Degree,Bachelor's Degree,teacher,services,other,father,2,3 to 4,0,no,yes,yes,yes,yes,yes,yes,no,4,3,3,5,4,60,65,41.6,55.53333333
+110448,Mousinho da Silveira,Female,17,Urban,< 3,A,10/10+2,10/10+2,services,other,reputation,mother,2,3 to 4,0,no,no,no,no,yes,yes,no,yes,1,2,3,5,2,60,60,35.2,51.73333333
+110449,Mousinho da Silveira,Male,18,Urban,< 3,T,Other,Other,other,services,home,father,2,1 to 3,0,no,no,no,no,no,yes,yes,yes,3,3,2,3,4,50,50,32,44
+110450,Mousinho da Silveira,Female,18,Urban,< 3,T,Other,Other,at_home,services,course,father,2,more then 4,0,no,no,no,no,yes,yes,yes,no,5,3,2,4,0,90,80,51.2,73.73333333
+110451,Mousinho da Silveira,Female,18,Rural,< 3,A,Other,Bachelor's Degree,at_home,other,course,mother,3,3 to 4,0,no,no,no,no,yes,yes,no,yes,4,3,4,5,0,65,65,41.6,57.2
+110452,Mousinho da Silveira,Male,18,Rural,< 3,T,Other,Other,at_home,other,other,mother,2,3 to 4,1,no,no,no,yes,no,no,no,no,4,4,3,5,2,65,60,38.4,54.46666667
+110453,Mousinho da Silveira,Female,18,Urban,> 3,T,10/10+2,10/10+2,services,services,other,mother,2,3 to 4,0,no,yes,no,no,yes,yes,yes,yes,4,3,2,3,0,55,55,32,47.33333333
+110454,Mousinho da Silveira,Female,17,Urban,< 3,T,Bachelor's Degree,Bachelor's Degree,at_home,at_home,course,mother,1,3 to 4,0,no,yes,yes,yes,yes,yes,yes,yes,2,3,4,1,0,80,75,48,67.66666667
+110455,Mousinho da Silveira,Female,17,Rural,> 3,T,Other,10/10+2,other,services,course,father,2,3 to 4,0,no,no,no,no,no,yes,no,no,3,2,2,3,0,60,55,38.4,51.13333333
+110456,Mousinho da Silveira,Male,18,Rural,> 3,T,Other,10/10+2,at_home,other,course,mother,2,3 to 4,0,no,yes,yes,no,yes,yes,no,no,3,3,4,3,4,50,50,32,44
+110457,Mousinho da Silveira,Male,18,Urban,< 3,T,Bachelor's Degree,Bachelor's Degree,teacher,services,other,mother,2,more then 4,0,no,no,yes,no,yes,yes,yes,yes,4,2,2,5,0,65,65,41.6,57.2
+110458,Mousinho da Silveira,Female,17,Rural,> 3,T,Other,Other,other,services,reputation,mother,3,1 to 3,1,no,yes,yes,no,yes,yes,yes,yes,5,2,1,1,0,35,30,0,21.66666667
+110459,Mousinho da Silveira,Female,18,Urban,> 3,T,10/10+2,10/10+2,at_home,services,course,father,2,1 to 3,0,no,yes,yes,no,yes,yes,yes,yes,5,2,3,4,0,55,50,32,45.66666667
+110460,Mousinho da Silveira,Female,18,Rural,> 3,T,Bachelor's Degree,Bachelor's Degree,other,teacher,other,father,3,3 to 4,0,no,yes,yes,no,no,yes,yes,yes,3,2,2,5,10,70,60,35.2,55.06666667
+110461,Mousinho da Silveira,Female,19,Urban,< 3,T,10/10+2,10/10+2,services,services,home,other,2,3 to 4,2,no,no,no,yes,yes,yes,no,yes,3,2,2,3,4,35,35,28.8,32.93333333
+110462,Mousinho da Silveira,Male,18,Rural,< 3,T,Other,10/10+2,at_home,services,other,father,3,1 to 3,0,no,yes,yes,yes,yes,no,yes,yes,4,3,,3,3,70,60,38.4,56.13333333
+110463,Mousinho da Silveira,Female,17,Urban,> 3,T,10/10+2,10/10+2,other,at_home,home,mother,1,more then 4,0,no,no,no,yes,yes,yes,no,yes,3,4,3,3,8,65,55,35.2,51.73333333
+110464,Mousinho da Silveira,Female,17,Rural,> 3,T,Other,10/10+2,other,other,course,mother,1,1 to 3,0,no,no,no,yes,yes,yes,yes,no,3,5,5,1,14,30,25,16,23.66666667
+110465,Mousinho da Silveira,Female,18,Rural,< 3,T,Bachelor's Degree,Bachelor's Degree,other,other,reputation,mother,2,more then 4,0,no,no,no,no,yes,yes,yes,no,5,4,4,1,0,95,90,60.8,81.93333333
+110466,Mousinho da Silveira,Female,18,Rural,> 3,T,Other,Other,other,other,home,mother,4,more then 4,0,no,no,no,no,yes,yes,yes,no,4,3,2,4,2,40,40,32,37.33333333
+110467,Mousinho da Silveira,Female,20,Urban,> 3,T,Bachelor's Degree,10/10+2,health,other,course,other,2,more then 4,2,no,yes,yes,no,no,yes,yes,yes,5,4,3,3,4,75,70,48,64.33333333
+110468,Mousinho da Silveira,Female,18,Rural,< 3,T,Bachelor's Degree,Bachelor's Degree,teacher,services,course,mother,1,3 to 4,0,no,no,yes,yes,yes,yes,yes,no,5,4,3,2,4,40,45,32,39
+110469,Mousinho da Silveira,Female,18,Urban,> 3,T,10/10+2,10/10+2,other,other,home,mother,1,3 to 4,0,no,no,yes,no,yes,yes,yes,yes,4,1,3,1,0,75,75,48,66
+110470,Mousinho da Silveira,Female,17,Rural,> 3,T,10/10+2,Other,at_home,other,reputation,mother,1,3 to 4,0,no,yes,yes,yes,no,yes,yes,no,4,5,4,1,17,50,50,32,44
+110471,Mousinho da Silveira,Male,18,Urban,> 3,T,Bachelor's Degree,Bachelor's Degree,teacher,teacher,home,father,1,3 to 4,0,no,no,yes,yes,no,yes,yes,no,3,2,4,2,4,75,70,44.8,63.26666667
+110472,Mousinho da Silveira,Male,18,Rural,> 3,T,10/10+2,Other,other,other,other,mother,2,1 to 3,0,no,no,no,yes,no,yes,yes,yes,4,4,3,5,5,35,30,22.4,29.13333333
+110473,Mousinho da Silveira,Male,17,Urban,> 3,T,10/10+2,10/10+2,other,services,home,father,2,3 to 4,0,no,no,no,yes,yes,yes,yes,no,4,4,3,3,2,55,55,32,47.33333333
+110474,Mousinho da Silveira,Male,19,Rural,> 3,T,Other,Other,other,services,other,mother,2,1 to 3,1,no,no,no,no,yes,yes,no,no,4,3,2,5,0,30,25,0,18.33333333
+110475,Mousinho da Silveira,Male,18,Rural,> 3,T,Bachelor's Degree,10/10+2,other,other,home,father,2,1 to 3,1,no,no,yes,no,yes,yes,no,no,5,4,3,3,14,30,25,16,23.66666667
+110476,Mousinho da Silveira,Female,18,Rural,> 3,T,10/10+2,10/10+2,at_home,other,other,mother,2,more then 4,0,no,no,yes,no,yes,yes,no,no,5,3,3,4,2,50,45,32,42.33333333
+110477,Mousinho da Silveira,Female,18,Rural,> 3,T,Bachelor's Degree,Bachelor's Degree,teacher,at_home,reputation,mother,3,1 to 3,0,no,yes,yes,yes,yes,yes,yes,yes,4,4,3,5,7,30,25,19.2,24.73333333
+110478,Mousinho da Silveira,Female,19,Rural,> 3,T,10/10+2,10/10+2,services,other,course,mother,1,more then 4,1,no,no,no,yes,no,yes,yes,no,5,4,2,5,0,35,25,0,20
+110479,Mousinho da Silveira,Female,18,Urban,< 3,T,10/10+2,Other,teacher,services,course,mother,1,3 to 4,0,no,yes,yes,no,yes,yes,yes,no,4,3,4,1,0,35,45,25.6,35.2
+110480,Mousinho da Silveira,Female,18,Urban,> 3,T,Other,Other,other,other,course,mother,2,3 to 4,1,no,no,no,yes,yes,yes,no,no,1,1,1,5,0,30,25,0,18.33333333
+110481,Mousinho da Silveira,Male,20,Urban,< 3,A,10/10+2,10/10+2,services,services,course,other,1,3 to 4,2,no,yes,yes,no,yes,yes,no,no,5,5,4,4,11,45,45,28.8,39.6
+110482,Mousinho da Silveira,Male,17,Urban,< 3,T,10/10+2,Other,services,services,course,mother,2,1 to 3,0,no,no,no,no,no,yes,yes,no,2,4,5,2,3,70,80,51.2,67.06666667
+110483,Mousinho da Silveira,Male,21,Rural,> 3,T,Other,Other,other,other,course,other,1,1 to 3,3,no,no,no,no,no,yes,no,no,5,5,3,3,3,50,40,22.4,37.46666667
+110484,Mousinho da Silveira,Male,18,Rural,< 3,T,10/10+2,10/10+2,services,other,course,mother,3,1 to 3,0,no,no,no,no,no,yes,yes,no,4,4,1,5,0,55,60,32,49
+110485,Mousinho da Silveira,Male,19,Urban,< 3,T,Other,Other,other,at_home,course,father,1,1 to 3,0,no,no,no,no,yes,yes,yes,no,3,2,3,5,5,40,45,28.8,37.93333333
